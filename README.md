@@ -106,9 +106,9 @@
 
 1. Install Redux Toolkit and React Redux:
    ```sh
-   yarn add @reduxjs/toolkit react-redux
+   yarn add @reduxjs/toolkit react-redux redux-persist
    ```
-2. Refer `store` folder from the Master project and copy as per requirement.
+2. Refer `redux` folder from the Master project and copy as per requirement.
 3. Ensure the store is configured in `App.tsx`. Refer the master project if needed:
    ```tsx
    import { Provider } from 'react-redux';
