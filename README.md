@@ -5,7 +5,7 @@
 - [Create a New React Native Project](#1-create-a-new-react-native-project)
 - [Run the Project](#2-run-the-project)
 - [Setup Splash Screen](#3-setup-splash-screen-using-react-native-bootsplash)
-- [Update Navigation](#5-update-navigation)
+- [Update Navigation](#4-update-navigation)
 - [Copy and Setup Assets](#5-copy-and-setup-assets)
 - [Setup Redux Toolkit](#6-setup-redux-toolkit)
 - [Copy Utils & Theme Folders](#7-copy-utils-theme-folders)
