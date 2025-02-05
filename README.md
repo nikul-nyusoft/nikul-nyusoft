@@ -57,6 +57,7 @@
    ```sh
    npx react-native-bootsplash generate --platforms android,ios --background-color "#FFFFFF" --logo-path path/to/logo.png
    ```
+   - Please reter to [React Native BootSplash setup](https://www.npmjs.com/package/react-native-bootsplash) for full configurations.
    - Ensure you replace `path/to/logo.png` with the actual path to your splash screen logo image.
 4. Modify `App.tsx` to hide the splash screen once the app is loaded:
    ```tsx
