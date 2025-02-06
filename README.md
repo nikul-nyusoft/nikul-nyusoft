@@ -10,6 +10,7 @@
 - [Setup Redux Toolkit](#6-setup-redux-toolkit)
 - [Copy Utils & Theme Folders](#7-copy-utils-theme-folders)
 - [Common Components](#8-common-components)
+- [Auth Module](#9-auth-module)
 
 ## 1. Create a New React Native Project
 
@@ -134,5 +135,11 @@
 ## 8. Common Components
 
 1. Copy required components from Components folder from the Master project.
-2. Please check depanddency packages and install them as well. 
+2. Please check depandency packages and install them as well. 
+
+## 9. Auth Module
+
+1. Copy Login, Signup, ForgotPassword, ResetPassword, Profile etc folders from Master project.
+2. Please check all the used common components in all screens and take them as well.
+3. Check all dependancy packages and install if any required.
 
