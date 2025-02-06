@@ -142,4 +142,5 @@
 1. Copy Login, Signup, ForgotPassword, ResetPassword, Profile etc folders from Master project.
 2. Please check all the used common components in all screens and take them as well.
 3. Check all dependancy packages and install if any required.
+4. Setup navigation of all screens same as Master project.
 
