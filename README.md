@@ -9,6 +9,7 @@
 - [Copy and Setup Assets](#5-copy-and-setup-assets)
 - [Setup Redux Toolkit](#6-setup-redux-toolkit)
 - [Copy Utils & Theme Folders](#7-copy-utils-theme-folders)
+- [Common Components](#8-common-components)
 
 ## 1. Create a New React Native Project
 
@@ -130,4 +131,8 @@
 1. Copy `utils` folder from the Master project.
 2. Copy `theme` folder from the Master project.
 
+## 8. Common Components
+
+1. Copy required components from Components folder from the Master project.
+2. Please check depanddency packages and install them as well. 
 
